@@ -9,7 +9,7 @@ interface Vehicle {
   summary(): string
 }
 
-// drink = Reportable
+// oldCivic = Reportable
 const oldCivic = {
   name: 'civic',
   year: 2000,
